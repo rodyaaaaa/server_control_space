@@ -1,0 +1,7 @@
+dateparser==1.4.0
+python-dateutil==2.9.0.post0
+pytz==2026.1.post1
+regex==2026.3.32
+six==1.17.0
+tzdata==2025.3
+tzlocal==5.3.1
