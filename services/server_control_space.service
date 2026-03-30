@@ -1,0 +1,12 @@
+[Unit]
+Description=Delete folders from older to newest
+After=network.target
+
+[Service]
+Type=oneshot
+User=
+WorkingDirectory=
+ExecStart=
+
+[Install]
+WantedBy=multi-user.target

@@ -1,13 +1,11 @@
 {
   "folder": [
     {
-      "imei": "folder",
       "folder_path": "full_path",
       "folder_format": "%d-%m-%Y",
       "folder_count": 8
     },
     {
-      "imei": "folder",
       "folder_path": "full_path",
       "folder_format": "%d-%m-%Y",
       "folder_count": 8

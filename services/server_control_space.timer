@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily run timer
+
+[Timer]
+Unit=server_control_space.service
+OnCalendar=daily
+Persistent=true
+AccuracySec=1m
+
+[Install]
+WantedBy=timers.target
